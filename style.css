@@ -128,6 +128,10 @@ h1 {
     color: #2897B8;
 }
 
+.txt-black {
+    color: black;
+}
+
 .txt-red {
     color: red;
 }
@@ -627,6 +631,15 @@ h1 {
 }
 
 @media screen and (max-width: 500px) {
+
+    
+    .section-hero {
+    background-position: center top;
+    height: 80vh;
+  }
+
+
+
 
 
     .header_burger {
