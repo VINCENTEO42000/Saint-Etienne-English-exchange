@@ -860,6 +860,25 @@ h1 {
     .h1-900 {
         font-size: 30px;
         font-weight: 500;
+        width: 80%;
+        
+    }
+
+    .h1-900bis {
+        font-size: 10px;
+        font-weight: 500;
+        
+    }
+
+    .h1-back {
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.05);
+    
+
+    }
+
+    .border-radius-10-900{
+        border-radius: 20px;
     }
 
 }
